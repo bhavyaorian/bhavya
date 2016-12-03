@@ -1,0 +1,2 @@
+here i am entering git file. and now saving it to my system. and then by using all git windows commands i am 
+pushing too the repository. 
